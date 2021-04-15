@@ -1,0 +1,15 @@
+Clearly define a problem or an idea of your choice, where you would need to leverage the
+Foursquare location data to solve or execute. Remember that data science problems always
+target an audience and are meant to help a group of stakeholders solve a problem, so make
+sure that you explicitly describe your audience and why they would care about your problem.
+This submission will eventually become your Introduction/Business Problem section in your
+final report. So I recommend that you push the report (having your Introduction/Business
+Problem section only for now) to your Github repository and submit a link to it.
+
+Nepal is a developing country which is much reliant on the means of tourism. Before the unification of Nepal, Kathmandu, Bhaktapur and Lalitpur were the most prominent places in Nepal. Each one has their own separate allure to it. These can be seen in its tradition and culture. The three places are quite the popular tourist and vacation destinations for people all around the world. They are diverse and multicultural and offer a wide variety of experiences that are widely sought after. We try to group the neighbourhoods respectively and draw insights to what they look like now. We try to compare and contrast the areas of interest in each place and find its diversity.
+Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare location data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is only Foursquare location data. This submission will eventually become your Data section in your final report. So I recommend that you push the report (having your Data section) to your Github repository and submit a link to it.
+The aim is to help tourists choose their destinations depending on the experiences that the neighbourhoods have to offer and what they would want to have. This also helps people make decisions if they are thinking of creating any area of interest or business or even if they want to relocate neighbourhoods within the city. Our findings will help stakeholders make informed decisions and address any concerns they have including the different kinds of cuisines, provision stores and what the city has to offer.
+. https://bhaktapurmun.gov.np/en/ward-profile
+2. https://lalitpurmun.gov.np/en/ward-profile
+3. https://old.kathmandu.gov.np/en/ward-profile
+4. https://github.com/unknown095/IDS-projects/blob/main/Book%20(1).csv
